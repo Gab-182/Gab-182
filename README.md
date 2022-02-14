@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500pxl" height = "250pxl" src="https://image.freepik.com/free-photo/business-partners-handshake-global-corporate-with-technology-concept_53876-102615.jpg" alt="cover" />
+<img width="800pxl" height = "300pxl" src="https://www.dlapiper.com/~/media/images/insights/publications/2017/06/shutterstock_615124073.jpg?h=257&la=en&w=759&hash=7EDF5B29736E43CAB153AEA504773656C3230C43" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -16,9 +16,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on C/C++ projects, and some python project.
+- 🔭 I’m currently working on C/C++ projects, and solana project.
 
-- 🌱 I’m currently learning Azure, C/C++, python, Ruby 
+- 🌱 I’m currently learning Azure, C/C++, python, Ruby, BlockChain tec. 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
