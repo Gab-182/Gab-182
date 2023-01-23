@@ -1,11 +1,12 @@
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >!
+  </h1>
 <p align='center'>
 </p>
-<div size='20px'> Hi! My name is Ghaith. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! Gab is here ..
 </div>
 
-- 🔭 I’m currently working on C/C++ projects, and solana project.
+- 🔭 I’m currently working on C/C++ projects, and Blockchain projects.
 
 - 🌱 I’m currently learning Azure, C/C++, python, Ruby, BlockChain tec. 
 
