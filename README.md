@@ -16,11 +16,13 @@
 - 💬 Talk to me about Python, C/C++, Freelancing Opportunities, Open Source 
 
   
-     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gab-182&theme=gruvbox_duo&hide_border=true)](https://github.com/gab-182)  
   
-     ![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gab-182&show_icons=true&theme=radical)
-
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gab-182&langs_count=9&show_icons=true&theme=radical&layout=compact)](https://github.com/gab-182/github-readme-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gab-182&theme=gruvbox_duo&hide_border=true)](https://github.com/gab-182)  
+  
+  
+  ![Gab's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gab-182&show_icons=true&theme=radical)
+  
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gab-182&langs_count=9&show_icons=true&theme=radical&layout=compact)](https://github.com/gab-182/github-readme-stats)
 
   
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
