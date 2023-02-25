@@ -5,7 +5,7 @@
     <h2 style="font-size:40px;">Gab is here..</h2>
     <img src="Logo.png" alt="My logo" width="700"/>
   </div>
-</div>
+
 
 - 🔭 I’m currently working on C/C++ projects, and Blockchain projects.
 
@@ -39,3 +39,4 @@
 
 
 <br>
+</div>
