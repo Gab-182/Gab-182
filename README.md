@@ -1,11 +1,12 @@
 
-<h1> Hello Fellow < Developers/ >!
-  </h1>
-  
-<h2> 
-  <div size='40px'> Gab is here ..
+<div style="text-align:center; width:100%;">
+  <h1> Hello Fellow < Developers/ >! </h1>
+
+  <div>
+    <h2 style="font-size:40px;">Gab is here..</h2>
+    <img src="Logo.png" alt="My logo" width="700"/>
   </div>
-</h2>
+</div>
 
 - 🔭 I’m currently working on C/C++ projects, and Blockchain projects.
 
@@ -24,7 +25,7 @@
   
   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gab-182&langs_count=9&show_icons=true&theme=radical&layout=compact)](https://github.com/gab-182/github-readme-stats)
 
-  <!--   GitHub stats graph -->
+<!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 [![Gab's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gab-182&theme=github-compact)](https://github.com/gab-182/github-readme-activity-graph)
 
