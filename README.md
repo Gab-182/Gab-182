@@ -7,13 +7,13 @@
   </div>
 
 
-- 🔭 I’m currently working on C/C++ projects, and Blockchain projects.
+🔭 I’m currently working on C/C++ projects, and Blockchain projects.
 
-- 🌱 I’m currently learning Azure, C/C++, python, Ruby, BlockChain tec. 
+🌱 I’m currently learning Azure, C/C++, python, Ruby, BlockChain tec. 
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+👯 I’m looking to collaborate on Projects,Tech Articles 
 
-- 💬 Talk to me about Python, C/C++, Freelancing Opportunities, Open Source 
+💬 Talk to me about Python, C/C++, Freelancing Opportunities, Open Source 
 
   
   
