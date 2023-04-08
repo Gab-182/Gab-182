@@ -6,6 +6,9 @@
     <img src="Logo.png" alt="My logo" width="700"/>
   </div>
 
+  <h2>My Skills</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,nginx,heroku,wordpress,flask,linux,bash,git,github,c,cpp,java,py,pytorch,tensorflow,r,rust,js,cmake,css,html,figma,sketchup)](https://skillicons.dev)
 
 🔭 I’m currently working on C/C++ projects, and Blockchain projects.
 
@@ -28,9 +31,6 @@
 ### 📈 GitHub Activity Graph:
 [![Gab's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gab-182&theme=github-compact)](https://github.com/gab-182/github-readme-activity-graph)
 
-<h2>My Skills</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,docker,nginx,wordpress,mariadb,linux,git,github,c,cpp,java,py,r,rust,js,cmake,css,html,figma)](https://skillicons.dev)
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 <a href = 'https://www.linkedin.com/in/ghaiath-abdoush/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
