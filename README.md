@@ -27,11 +27,6 @@
   
   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gab-182&langs_count=9&show_icons=true&theme=radical&layout=compact)](https://github.com/gab-182/github-readme-stats)
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![Gab's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gab-182&theme=github-compact)](https://github.com/gab-182/github-readme-activity-graph)
-
-
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 <a href = 'https://www.linkedin.com/in/ghaiath-abdoush/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/Gab__182'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>  
