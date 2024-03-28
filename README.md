@@ -4,6 +4,12 @@
   <div>
     <h2 style="font-size:40px;">Gab is here..</h2>
     <img src="Logo.png" alt="My logo" width="700"/>
+    <h4>
+      Software developer at 42 Abu Dhabi. Pursuing a BSc in Computer Science at the University of the People with a background in Agricultural Engineering. 
+      Passionate about AI and Data Science, holding certifications in Python, Linux, and Machine Learning. 
+      With hands-on experience in Python development, data analysis, and data science. 
+      Awarded first place twice for machine learning & AI projects.
+    </h4>
   </div>
 
   <h2>My Skills</h2>
