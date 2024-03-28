@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello Fellow &lt; Developers/&gt;! 👋</h1>
+  <h1>&lt; Hello/&gt;! 👋</h1>
 
   <div>
     <h2 style="font-size:40px;">Gab is here..</h2>
