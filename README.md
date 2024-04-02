@@ -14,7 +14,7 @@
 
   <h2>My Skills</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,nginx,heroku,wordpress,flask,linux,bash,git,github,c,cpp,java,py,pytorch,tensorflow,r,rust,js,cmake,css,html,figma,sketchup)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,nginx,heroku,wordpress,flask,linux,bash,git,github,c,cpp,java,py,pytorch,tensorflow,r,js,css,html,figma)](https://skillicons.dev)
 
 🔭 I’m currently working on C/C++ projects, and Blockchain projects.
 
